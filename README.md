@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=Senthuran%20Murugeshkumar&fontSize=36&fontColor=e6edf3&fontAlignY=55&desc=Software%20Engineer%20-%20IIT%20Sri%20Lanka%20%C3%97%20University%20of%20Westminster&descSize=14&descAlignY=78&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=140&section=header&text=Senthuran%20Murugeshkumar&fontSize=36&fontColor=e6edf3&fontAlignY=55&desc=Software%20Engineer%20-%20IIT%20Sri%20Lanka%20%C3%97%20University%20of%20Westminster&descSize=14&descAlignY=78&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&label=&)](https://www.linkedin.com/in/murugeshkumar-senthuran)&ensp;
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&label=&)](mailto:kumarsenthuran2003@gmail.com)&ensp;
 [![IEEE](https://img.shields.io/badge/IEEE%20CS%20%C2%B7%20RAS%20%C2%B7%20EMBS-0d1117?style=flat-square&logo=ieee&logoColor=58a6ff)](https://www.ieee.org/)&ensp;
-![Profile Views](https://komarev.com/ghpvc/?username=senthuran&color=58a6ff&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Senthuran-dev&color=58a6ff&style=flat-square&label=profile+views)
 
 </div>
 
@@ -64,51 +64,14 @@ Member of IEEE CS, RAS, and EMBS - open to collaborations, research contribution
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=senthuran&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Senthuran-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthuran&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthuran-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="160"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=senthuran&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=senthuran&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### Contribution Grid
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-**Open to collaborations, IEEE initiatives, and impactful engineering projects.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&label=LinkedIn)](https://www.linkedin.com/in/murugeshkumar-senthuran)&ensp;
-[![Email](https://img.shields.io/badge/Get%20in%20Touch-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&label=Email)](mailto:kumarsenthuran2003@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Senthuran-dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681)](https://git.io/streak-stats)
 
 </div>
