@@ -1,77 +1,68 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=140&section=header&text=Senthuran%20Murugeshkumar&fontSize=36&fontColor=e6edf3&fontAlignY=55&desc=Software%20Engineer%20-%20IIT%20Sri%20Lanka%20%C3%97%20University%20of%20Westminster&descSize=14&descAlignY=78&descColor=8b949e&animation=fadeIn" width="100%"/>
-
-</div>
+<!-- Before committing: search this file for "REPLACE" and fill in the four repo links. Leave the commented-out optional blocks until you have the URLs, then delete this note. -->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=140&section=header&text=Senthuran%20Murugeshkumar&fontSize=36&fontColor=e6edf3&fontAlignY=55&desc=Software%20Engineering%20Undergraduate%20%C2%B7%20&descSize=14&descAlignY=78&descColor=8b949e&animation=fadeIn" width="100%" alt="Senthuran Murugeshkumar - Software Engineering Undergraduate"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58a6ff&label=&)](https://www.linkedin.com/in/murugeshkumar-senthuran)&ensp;
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&label=&)](mailto:kumarsenthuran2003@gmail.com)&ensp;
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&label=&)](mailto:kumarsenthuran2003@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE%20CS%20%C2%B7%20RAS%20%C2%B7%20EMBS-0d1117?style=flat-square&logo=ieee&logoColor=58a6ff)](https://www.ieee.org/)&ensp;
-![Profile Views](https://komarev.com/ghpvc/?username=Senthuran-dev&color=58a6ff&style=flat-square&label=profile+views)
+
+<!-- Optional: uncomment when your portfolio is live
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58a6ff&label=&)](https://REPLACE_PORTFOLIO_URL)
+-->
 
 </div>
 
-<br/>
+## About
 
----
+Full-Stack Developer focused on building useful software from the ground up. Passionate about modern web architecture, AI integration, and shipping tools that actually work. Always building, iterating, and diving deeper into how AI actually works under the hood.
 
-### About
+| Quick facts | |
+|:--|:--|
+| **Studying** | BEng (Hons) Computer Software Engineering · IIT Sri Lanka × University of Westminster |
+| **Open to** | Software engineering internships · collaborations and research contributions  |
+| **Learning** | DevOps · system design · cloud security · artificial intelligence |
+| **Community** | IEEE member: Computer Society, Robotics & Automation Society, Engineering in Medicine and Biology Society |
+| **Based in** | Sri Lanka |
 
-Software engineering student at IIT Sri Lanka (University of Westminster, UK), focused on building robust full-stack and mobile systems. I work primarily with Flutter, React, FastAPI, and cloud-native infrastructure, and am actively deepening my knowledge in DevOps, system design, and cloud security.
+## Featured projects
 
-Member of IEEE CS, RAS, and EMBS - open to collaborations, research contributions, and impactful engineering work.
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **[zenRoute](https://github.com/Senthuran-dev/REPLACE_ZENROUTE)**<br/>*flagship* | School bus tracking app with NFC-based student attendance and a three-way chat between admin, driver and parent. | Flutter · FastAPI · Supabase + PostGIS · XGBoost · NFC |
+| **[VisionSnap](https://github.com/Senthuran-dev/REPLACE_VISIONSNAP)** | Image classification web app: a React front end backed by a FastAPI service running a MobileNetV2 model. | React · FastAPI · MobileNetV2 |
+| **[News Automation](https://github.com/Senthuran-dev/REPLACE_NEWS_AUTOMATION)** | Telegram news digest bot. Fetches RSS feeds, ranks stories with LLMs, and sends an evening digest plus a weekly best-of, scheduled on GitHub Actions. | LLM APIs (Gemini and others) · Telegram Bot · GitHub Actions |
 
-> *"Technology should connect, inspire, and empower people."*
 
----
+<!-- Add more rows in the same format:
+| **[Name](https://github.com/Senthuran-dev/REPLACE_REPO)** | One-line description of what it does. | Stack |
+-->
 
-### Tech Stack
+<!-- Optional: [More projects and case studies on my portfolio](https://REPLACE_PORTFOLIO_URL) -->
 
-**Languages**&ensp;
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=58a6ff)
-![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=58a6ff)
-![Dart](https://img.shields.io/badge/Dart-161b22?style=flat-square&logo=dart&logoColor=58a6ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=mysql&logoColor=58a6ff)
-![HTML5](https://img.shields.io/badge/HTML5-161b22?style=flat-square&logo=html5&logoColor=58a6ff)
-![CSS3](https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=58a6ff)
+## Tech stack
 
-**Frameworks**&ensp;
-![Flutter](https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=58a6ff)
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=58a6ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=58a6ff)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
+| Area | Tools |
+|:--|:--|
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,html,css&theme=dark" alt="Python, Java, Dart, JavaScript, TypeScript, HTML, CSS"/> |
+| **Mobile & web** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs&theme=dark" alt="Flutter, React, Next.js"/> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="FastAPI, Node.js"/> |
+| **Data & cloud** | <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,netlify&theme=dark" alt="PostgreSQL, MySQL, Supabase, Firebase, Netlify"/> |
+| **DevOps & tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,idea,figma&theme=dark" alt="Docker, Git, GitHub, GitHub Actions, VS Code, IntelliJ IDEA, Figma"/> |
 
-**Cloud & Databases**&ensp;
-![Supabase](https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=58a6ff)
-![Firebase](https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=58a6ff)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=58a6ff)
-![Netlify](https://img.shields.io/badge/Netlify-161b22?style=flat-square&logo=netlify&logoColor=58a6ff)
+Also: SQL · PostGIS · XGBoost
 
-**Tools & DevOps**&ensp;
-![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=58a6ff)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=58a6ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=58a6ff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-161b22?style=flat-square&logo=intellijidea&logoColor=58a6ff)
-![Figma](https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=58a6ff)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Senthuran-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthuran-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="160"/>
-
-</div>
+## GitHub stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Senthuran-dev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:0d1117&height=100&section=footer" width="100%" alt=""/>
 
 </div>
